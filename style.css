@@ -1,0 +1,169 @@
+.title {
+    text-align: center;
+}
+
+ /* .forLinks { 
+    text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px; 
+    
+} */
+
+.links {
+    text-align: center;
+   /*  border: dashed;
+    height: 30px;
+    width: 100%; */
+}
+
+a {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration:inherit;
+    color: inherit;
+    word-spacing: 30px;
+    color: coral;
+    
+}
+
+hr {
+    width: 100%;
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    max-width: 650px;
+
+}
+
+body {
+    margin: auto;
+    max-width: 100%;
+    min-height: 100vh;
+    
+}
+
+
+.info {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0 700px;
+}
+
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.pct {
+    margin: 0 650px;
+    height: 300px;
+    width: 600px;
+}
+
+
+.btn {
+
+    background: linear-gradient(#FB9575, #F45A38 48%, #EA1502 52%, #F02F17);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 800px;
+    width: 300px;
+}
+
+
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 100%;
+  }
+  
+  body {
+    font-family: acumin-pro, system-ui, sans-serif;
+    grid-template-rows: auto 1fr auto;
+    font-size: 14px;
+    background-color: #f4f4f4;
+    align-items: start;
+    min-height: 100vh;
+  }
+  
+  .footer {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 30px 30px 20px 30px;
+    color: #2f2f2f;
+    background-color: #fff;
+    border-top: 1px solid #e5e5e5;
+  }
+  
+  .footer > * {
+    flex:  1 100%;
+  }
+  
+  .footer__addr {
+    margin-right: 1.25em;
+    margin-bottom: 2em;
+  }
+  
+  .footer__logo {
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+    text-transform: lowercase;
+    font-size: 1.5rem;
+  }
+  
+
+  
+
+  
+
+
+  .footer ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+
+  .footerText {
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+
+  .gif {
+    margin: 0 800px;
+    width: 300px;
+    height: 200px;
+  }
+
+  
+ 
+  
+
+
+  
+ 
+  
+
+  
+ 
+
+  
+
+
+
+
