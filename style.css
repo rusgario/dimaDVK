@@ -520,7 +520,7 @@ h2 {
     }
     
     .btn {
-    margin: 0 100px;
+    margin: 10px 130px;
     width: 150px;
     }
     
@@ -528,6 +528,14 @@ h2 {
       margin: 0 50px;
     width: 150px;
     height: 100px;
+    }
+
+    .audio {
+      margin: 0 100px;
+    }
+
+    .audio2 {
+      margin: 10px 100px;
     }
     }
 
