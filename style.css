@@ -144,11 +144,7 @@ h2 {
   }
 
 
-  .gif {
-    margin: 0 800px;
-    width: 300px;
-    height: 200px;
-  }
+ 
 
 
   .title {
@@ -430,6 +426,20 @@ h2 {
     text-transform: lowercase;
     font-size: 1.5rem;
   }
+
+
+  .audio {
+    margin: 10px 800px;
+    border: 2px solid;
+    
+  }
+
+  .audio2 {
+    margin: 10px 800px;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
   
 
   
@@ -471,17 +481,27 @@ h2 {
     height: 200px;
     width: 100%;
     }
+
+    
+    .audio {
+      margin: 0 100px;
+    }
+
+    .audio2 {
+      margin: 10px 100px;
+    }
     
     .btn {
-    margin: 20px 50px;
+    margin: 10px 150px;
     width: 200px;
     }
     
     .gif {
-    margin: 0;
+    margin: 0 150px;
     width: 200px;
     height: 150px;
     }
+
     }
     
     @media only screen and (max-width: 480px) {
@@ -500,16 +520,17 @@ h2 {
     }
     
     .btn {
-    margin: 20px;
+    margin: auto;
     width: 150px;
     }
     
     .gif {
-    margin: 0;
+      margin: 0 50px;
     width: 150px;
     height: 100px;
     }
     }
+
 
   
  
