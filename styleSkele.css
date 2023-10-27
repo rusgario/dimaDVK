@@ -1,3 +1,13 @@
+body {
+  background-color: #262626;
+  
+}
+
+* {
+  flex-direction: column;
+}
+
+
 @media (min-width:1660px) and (max-width:1920px) {
    * {
       flex-direction: column;
@@ -66,7 +76,7 @@
     h1 {
       text-align: center;
     }
-    
+
     .container {
       display: block;
       justify-content: center;
